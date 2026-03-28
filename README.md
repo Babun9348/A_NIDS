@@ -41,21 +41,6 @@ A_NIDS/
 
 ---
 
-## 📥 Dataset & Trained Model
-
-Due to GitHub file size limits, the dataset and trained model are not included in this repository.
-
-Download from:
-
-Dataset: ADD_YOUR_LINK_HERE  
-Trained Model (.pkl): ADD_YOUR_LINK_HERE  
-
-After downloading:
-
-Place datasets inside: data/  
-Place model files inside: models/
-
----
 
 ## ⚙️ Requirements
 
